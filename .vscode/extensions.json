@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-json",
+        "ms-vscode.node-debug2",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-next"
+    ]
+}

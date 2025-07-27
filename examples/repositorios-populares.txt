@@ -1,0 +1,85 @@
+# Lista de repositórios úteis para desenvolvimento
+
+## Frontend Frameworks
+microsoft/vscode
+facebook/react
+vuejs/vue
+angular/angular
+sveltejs/svelte
+
+## Backend & APIs
+nodejs/node
+expressjs/express
+nestjs/nest
+fastapi/fastapi
+django/django
+
+## Build Tools & Bundlers
+webpack/webpack
+vitejs/vite
+parcel-bundler/parcel
+rollup/rollup
+esbuild/esbuild
+
+## Testing
+jest/jest
+cypress-io/cypress
+testing-library/react-testing-library
+playwright-python/playwright-python
+mocha/mocha
+
+## Styling
+tailwindcss/tailwindcss
+sass/sass
+styled-components/styled-components
+emotion-js/emotion
+postcss/postcss
+
+## State Management
+redux-toolkit/redux-toolkit
+mobx/mobx
+zustand/zustand
+recoil/recoil
+apollo-client/apollo-client
+
+## Mobile Development
+facebook/react-native
+flutter/flutter
+ionic-framework/ionic
+expo/expo
+nativescript/nativescript
+
+## Development Tools
+prettier/prettier
+eslint/eslint
+babel/babel
+typescript-eslint/typescript-eslint
+husky/husky
+
+## Databases
+mongodb/mongo
+mysql/mysql-server
+redis/redis
+postgresql/postgresql
+prisma/prisma
+
+## Cloud & DevOps
+kubernetes/kubernetes
+docker/docker
+terraform/terraform
+ansible/ansible
+helm/helm
+
+## Machine Learning
+tensorflow/tensorflow
+pytorch/pytorch
+scikit-learn/scikit-learn
+huggingface/transformers
+opencv/opencv
+
+## Utilities
+lodash/lodash
+axios/axios
+moment/moment
+date-fns/date-fns
+uuid/uuid

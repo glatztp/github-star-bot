@@ -1,0 +1,35 @@
+{
+  "name": "github-star-bot",
+  "version": "1.0.0",
+  "description": "Bot para dar estrelas automaticamente em repositórios GitHub",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "setup": "node scripts/setup.js",
+    "validate": "node scripts/validate.js",
+    "diagnose": "node scripts/diagnosticar-token.js",
+    "star": "cross-env MODE=star node src/app.js",
+    "unstar": "cross-env MODE=unstar node src/app.js",
+    "check": "cross-env MODE=check node src/app.js",
+    "example": "node examples/uso-basico.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "bot",
+    "star",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
